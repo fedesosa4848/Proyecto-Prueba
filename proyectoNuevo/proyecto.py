@@ -8,3 +8,4 @@ class Persona():
     def __str__(self) -> str:
         return self.nombre
     
+persona_nueva = Persona("Fede")
